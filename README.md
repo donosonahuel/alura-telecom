@@ -5,5 +5,5 @@
 ## En desarrollo:
 - Extracción: ✅
 - Transformación: ✅
-- Carga y analisis: En proceso
-- Informe final: 
+- Carga y analisis: ✅
+- Informe final: En proceso
