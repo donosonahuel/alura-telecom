@@ -2,7 +2,7 @@
 
 <p>El objetivo de este challenge es usar todos los conocimientos fundamentales en el analisis exploratorio de datos (EDA) centrado en identificar los factores clave para comprender los patrones de comportamientos y así desarrollar estrategias según la situación utilizando visualizaciones inluido.</p>
 
-Enlace al proyecto: [Google Colab](https://colab.research.google.com/drive/1PrRG8H-Wf5IZ3m0c0XKgzp5eo2WPTAtz?usp=sharing)
+Enlace al proyecto: [Google Colab](https://colab.research.google.com/drive/1PrRG8H-Wf5IZ3m0c0XKgzp5eo2WPTAtz?usp=sharing) (Ultima versión)
 
 ## En desarrollo:
 - Extracción: ✅
