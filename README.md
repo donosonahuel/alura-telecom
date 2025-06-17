@@ -6,4 +6,4 @@
 - Extracción: ✅
 - Transformación: ✅
 - Carga y analisis: ✅
-- Informe final: En proceso
+- Informe final: ✅
